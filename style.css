@@ -5,9 +5,11 @@
   font-family: sans-serif;
 }
 
-h1{
+h1 {
   font-size: 50px;
   color: white;
+  position: absolute;
+  top: 25%;
 }
 body {
   width: 100%;
