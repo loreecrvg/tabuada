@@ -54,6 +54,13 @@ div.container input:focus {
   border: 1px solid rgb(241, 6, 230);
 }
 
+.footer {
+  position:absolute;
+  color:black;
+  bottom: 50px;
+  width: 100%;
+}
+
 div.container input::-webkit-inner-spin-button {
   display: none;
 }
